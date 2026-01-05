@@ -1,0 +1,38 @@
+title: Easy Japanese for Work
+description: A comprehensive collection of Japanese workplace communication lessons
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Collections
+collections:
+  lessons:
+    output: true
+    permalink: /lessons/:name
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: All Lessons
+    url: /index
+  - title: About
+    url: /index#about-this-collection
+
+# Social and repository info
+github:
+  repository_url: https://github.com/bagustris/japanese-for-work
+  
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - STYLE_NOTES.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

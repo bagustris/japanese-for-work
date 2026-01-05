@@ -22,6 +22,13 @@ This repository contains 46 lessons covering essential Japanese phrases and comm
 ## Lessons Overview
 
 ### Lessons 1-10: Workplace Basics
+### Lessons 11-20: Professional Communication  
+### Lessons 21-30: Advanced Workplace Scenarios
+### Lesson 33: Customer Service  
+### Lessons 34-40: Workplace Decision Making & Problem Solving  
+### Lessons 41-46: Client Relations & Service Excellence  
+
+## Full Lesson List  
 
 1. [部長にお礼を言ったら。](lessons/lesson_01.md) - Communicating a sense of gratitude
 2. [すみませんが、もう一度言っていただけますか。](lessons/lesson_02.md) - Asking someone politely to repeat something
@@ -33,9 +40,6 @@ This repository contains 46 lessons covering essential Japanese phrases and comm
 8. [よろしければ、私が致しましょうか。](lessons/lesson_08.md) - Offering help politely
 9. [私の席はどこか、教えていただけませんか。](lessons/lesson_09.md) - Asking for information politely
 10. [それなら、これを見るといいですよ。](lessons/lesson_10.md) - Giving advice appropriately
-
-### Lessons 11-20: Professional Communication
-
 11. [失礼ですが、お名前はなんとお読みするんですか。](lessons/lesson_11.md) - Asking how to read someone's name
 12. [いま急ぎでお客様の資料をまとめているところなんだ。](lessons/lesson_12.md) - Explaining what you're currently doing
 13. [申し訳ありません。和田は他の電話に出ております。](lessons/lesson_13.md) - Handling phone calls professionally
@@ -46,9 +50,6 @@ This repository contains 46 lessons covering essential Japanese phrases and comm
 18. [お気持ちはありがたいのですが、受け取らない決まりになっております。](lessons/lesson_18.md) - Declining gifts politely
 19. [お時間を頂いてしまい、申し訳ありません。](lessons/lesson_19.md) - Apologizing for taking someone's time
 20. [場合によっては間に合わないこともあります。よろしいでしょうか。](lessons/lesson_20.md) - Managing expectations with clients
-
-### Lessons 21-30: Advanced Workplace Scenarios
-
 21. [本社からのお願いです。ぜひご協力いただけませんか。](lessons/lesson_21.md) - Making formal requests
 22. [あの、すみません。私からひとつよろしいでしょうか。](lessons/lesson_22.md) - Interjecting politely in meetings
 23. [行き違いがあったようです。すぐに対応いたします。](lessons/lesson_23.md) - Handling miscommunications
@@ -58,14 +59,8 @@ This repository contains 46 lessons covering essential Japanese phrases and comm
 27. [ご無理を言って申し訳ありませんが、残業をお願いできませんか。](lessons/lesson_27.md) - Requesting overtime work
 28. [大事な内容なので、念のため確認させてください。](lessons/lesson_28.md) - Confirming important details
 29. [少し様子を見て戻ると言っていました。病院に行くほどではないそうです。](lessons/lesson_29.md) - Relaying information about absent colleagues
-30. [今はちょっと手が離せません。終わり次第お手伝いします。](lessons/lesson_30.md) - Declining requests while offering alternatives
-
-### Lesson 33: Customer Service
-
-33. [ご迷惑をおかけして申し訳ありません。今後、清掃のルールを徹底させます。](lessons/lesson_33.md) - Apologizing and explaining corrective measures
-
-### Lessons 34-40: Workplace Decision Making & Problem Solving
-
+30. [今はちょっと手が離せません。終わり次第お手伝いします。](lessons/lesson_30.md) - Declining requests while offering alternatives  
+33. [ご迷惑をおかけして申し訳ありません。今後、清掃のルールを徹底させます。](lessons/lesson_33.md) - Apologizing and explaining corrective measures  
 34. [お時間はとらせません。至急判断をお願いします。](lessons/lesson_34.md) - Asking for instant guidance
 35. [かわいいと言いますと](lessons/lesson_35.md) - Asking for further information
 36. [できる範囲](lessons/lesson_36.md) - Saying how much you can actually do
@@ -73,24 +68,18 @@ This repository contains 46 lessons covering essential Japanese phrases and comm
 38. [私がやっておきますね](lessons/lesson_38.md) - Taking over someone's work without hurting their feelings
 39. [人員の調整](lessons/lesson_39.md) - Explaining the need for a staffing adjustment
 40. [お話中すみません](lessons/lesson_40.md) - Pointing out a senior coworker's mistake
-
-### Lessons 41-46: Client Relations & Service Excellence
-
 41. [きょうの仕事も大変でしたね](lessons/lesson_41.md) - Offering words of support for a coworker
 42. [図面に不備があり](lessons/lesson_42.md) - Fielding an urgent request on the phone
 43. [先ほど、何か失礼がございましたでしょうか](lessons/lesson_43.md) - Determining what is worrying a client
 44. [ご相談があります](lessons/lesson_44.md) - Making a polite request to a superior
 45. [すみません、分かりませんでした](lessons/lesson_45.md) - Asking someone to repeat and clarify
 46. [お客様のお車の場合](lessons/lesson_46.md) - Recommending additional repairs
-
-### Lessons 47-48: Review Specials
-
 47. [では、手短に申し上げます](lessons/lesson_47.md) - Business Japanese Review Special: Part 1
 48. [今日明日中には](lessons/lesson_48.md) - Business Japanese Review Special: Part 2
 
 ## Missing Lessons
 
-**Note:** Lessons 31 and 32 are currently not available in this collection.
+**Note:** Lessons 31 and 32 are quizes and were not available in this collection.
 
 ## How to Use This Resource
 

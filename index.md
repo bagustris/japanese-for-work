@@ -129,4 +129,4 @@ If you find errors or have suggestions for improvements, please feel free to con
 ---
 
 **Last Updated:** January 5, 2026  
-**Total Lessons:** 46 lessons (Lessons 31-32 pending)
+**Total Lessons:** 46 lessons (Lessons 31-32 are quizzes and not included)

@@ -4,6 +4,8 @@
 
 **English Title:** She'll send the urgent documents via email.
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit05.mp3)
+
 ---
 
 ## Role-play Setup

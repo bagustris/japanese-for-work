@@ -4,6 +4,8 @@
 
 **English Title:** Taking over someone's work without hurting their feelings
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit38.mp3)
+
 ---
 
 ## Role-play Setup

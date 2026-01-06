@@ -4,6 +4,8 @@
 
 **English Title:** Determining what is worrying a client
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit43.mp3)
+
 ---
 
 ## Role-play Setup

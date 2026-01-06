@@ -4,6 +4,8 @@
 
 **English Title:** Adjusting a schedule with a client
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit24.mp3)
+
 ---
 
 ## Role-play Setup

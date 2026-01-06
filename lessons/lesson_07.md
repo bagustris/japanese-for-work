@@ -4,6 +4,8 @@
 
 **English Title:** I'm terribly sorry for being late.
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit07.mp3)
+
 ---
 
 ### Role-play Setup

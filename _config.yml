@@ -28,6 +28,10 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# Include assets
+include:
+  - assets
+
 # Exclude from processing
 exclude:
   - STYLE_NOTES.md

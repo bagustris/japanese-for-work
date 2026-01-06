@@ -19,14 +19,13 @@ This repository contains 46 lessons covering essential Japanese phrases and comm
 - **Vocabulary lists** with examples
 - **Keego (polite language)** patterns for professional communication
 
-## Lessons Overview
-
-### Lessons 1-10: Workplace Basics
-### Lessons 11-20: Professional Communication  
-### Lessons 21-30: Advanced Workplace Scenarios
-### Lesson 33: Customer Service  
-### Lessons 34-40: Workplace Decision Making & Problem Solving  
-### Lessons 41-46: Client Relations & Service Excellence  
+## Lessons Overview  
+ - Lessons 1-10: Workplace Basics
+ - Lessons 11-20: Professional Communication  
+ - Lessons 21-30: Advanced Workplace Scenarios
+ - Lesson 33: Customer Service  
+ - Lessons 34-40: Workplace Decision Making & Problem Solving  
+ - Lessons 41-46: Client Relations & Service Excellence  
 
 ## Full Lesson List  
 

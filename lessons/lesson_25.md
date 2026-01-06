@@ -4,6 +4,8 @@
 
 **English Title:** Making small talk with a client
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit25.mp3)
+
 ---
 
 ## Role-play Setup

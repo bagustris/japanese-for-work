@@ -4,6 +4,8 @@
 
 **English Title:** How about thanking the department head?
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit01.mp3)
+
 ---
 
 ## Role-play Setup

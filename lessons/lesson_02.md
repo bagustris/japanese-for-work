@@ -4,6 +4,8 @@
 
 **English Title:** Would you please repeat that?
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit02.mp3)
+
 ---
 
 ## Role-play Setup

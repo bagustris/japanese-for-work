@@ -3,6 +3,8 @@
 
 **English:** I won't take much of your time. I need your guidance right now.
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit34.mp3)
+
 ---
 
 ## Role-play Setup

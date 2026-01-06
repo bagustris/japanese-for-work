@@ -4,6 +4,8 @@
 
 **English Title:** Could you please show me my seat?
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit09.mp3)
+
 ---
 
 ### Role-play Setup

@@ -4,6 +4,8 @@
 
 **English Title:** Asking someone to repeat and clarify
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit45.mp3)
+
 ---
 
 ## Role-play Setup

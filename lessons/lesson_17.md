@@ -4,6 +4,8 @@
 
 **English Title:** Supporting a troubled subordinate
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit17.mp3)
+
 ---
 
 ## Role-play Setup

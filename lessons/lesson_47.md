@@ -4,6 +4,8 @@
 
 **English Title:** Business Japanese Review Special: Part 1
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit47.mp3)
+
 ---
 
 ## Overview

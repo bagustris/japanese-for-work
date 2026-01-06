@@ -4,6 +4,8 @@
 
 **English Title:** Handling difficult negotiations over the phone
 
+🎧 **Audio:** [Listen to this lesson](../mp3/skit16.mp3)
+
 ---
 
 ## Role-play Setup

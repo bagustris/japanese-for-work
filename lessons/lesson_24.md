@@ -4,7 +4,8 @@
 
 **English Title:** Adjusting a schedule with a client
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit24.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit24.mp3)
 
 ---
 

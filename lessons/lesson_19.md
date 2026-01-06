@@ -4,7 +4,8 @@
 
 **English Title:** Dealing with ambiguous complaints
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit19.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit19.mp3)
 
 ---
 

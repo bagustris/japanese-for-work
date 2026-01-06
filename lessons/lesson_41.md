@@ -4,7 +4,8 @@
 
 **English Title:** Offering words of support for a coworker
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit41.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit41.mp3)
 
 ---
 

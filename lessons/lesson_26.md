@@ -4,7 +4,8 @@
 
 **English Title:** Cheering up a koohai who is feeling down
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit26.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit26.mp3)
 
 ---
 

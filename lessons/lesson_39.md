@@ -4,7 +4,8 @@
 
 **English Title:** Explaining the need for a staffing adjustment
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit39.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit39.mp3)
 
 ---
 

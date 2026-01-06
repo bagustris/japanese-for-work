@@ -4,7 +4,8 @@
 
 **English Title:** Checking that others have understood instructions
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit28.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit28.mp3)
 
 ---
 

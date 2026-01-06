@@ -4,7 +4,8 @@
 
 **English Title:** Offering logical explanations for modifications
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit15.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit15.mp3)
 
 ---
 

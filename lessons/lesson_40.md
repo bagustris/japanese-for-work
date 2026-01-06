@@ -4,7 +4,8 @@
 
 **English Title:** Pointing out a senior coworker's mistake
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit40.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit40.mp3)
 
 ---
 

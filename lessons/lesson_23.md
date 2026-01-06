@@ -4,7 +4,8 @@
 
 **English Title:** Explaining when there's been a misunderstanding
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit23.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit23.mp3)
 
 ---
 

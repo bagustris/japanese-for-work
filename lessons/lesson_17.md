@@ -4,7 +4,8 @@
 
 **English Title:** Supporting a troubled subordinate
 
-🎧 **Audio:** [Listen to this lesson](../mp3/skit17.mp3)
+🎧 **Audio:**  
+[Listen to this lesson](../mp3/skit17.mp3)
 
 ---
 
